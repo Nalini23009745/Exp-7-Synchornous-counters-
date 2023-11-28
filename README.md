@@ -65,9 +65,15 @@ RegisterNumber:  23009745
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-UPCOUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/af7e58cb-6a0f-4269-b0bb-41d033f50dd2)
-DOWN COUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/ae2dad11-028c-4c23-bacb-054ea5b88340)
+UP COUNTER RTL FORM:
 
+![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/6952981f-37d4-4134-93b0-0f327c8a7315)
+
+
+DOWN COUNTER RTL FORM:
+
+
+![Uploading image.png…]()
 
 
 
