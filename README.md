@@ -73,7 +73,8 @@ UP COUNTER RTL FORM:
 DOWN COUNTER RTL FORM:
 
 
-![Uploading image.png…]()
+![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/8b190259-bbad-41d3-972d-ac7655685225)
+
 
 
 
@@ -82,8 +83,11 @@ DOWN COUNTER RTL FORM:
 
 
 ### TIMING DIGRAMS FOR COUNTER  
+UPCOUNTER
 ![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/214f457f-cf76-4ff6-8b85-7815c6079ee7)
 
+DOWN COUNTER
+![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/aa3ddde8-c3df-4a79-88af-9a156187d857)
 
 
 
