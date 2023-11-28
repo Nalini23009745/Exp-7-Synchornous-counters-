@@ -99,3 +99,4 @@ UP COUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters
 DOWN COUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/564deafa-0628-46ce-bbbd-0eddbd43ebc9)
 
 ### RESULTS 
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
