@@ -53,10 +53,11 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Nalini P
+RegisterNumber:  23009745
 */
 
+## code:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/a74c5f05-457b-452e-b95e-121ddd98a712)
 
 
 
@@ -64,6 +65,8 @@ RegisterNumber:
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+UPCOUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/af7e58cb-6a0f-4269-b0bb-41d033f50dd2)
+DOWN COUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/ae2dad11-028c-4c23-bacb-054ea5b88340)
 
 
 
@@ -73,16 +76,16 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS FOR COUNTER  
+![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/214f457f-cf76-4ff6-8b85-7815c6079ee7)
+
 
 
 
 
 
 ### TRUTH TABLE 
+UP COUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/65efa315-9180-4ad5-b3ee-29ae57a60622)
 
-
-
-
-
+DOWN COUNTER:![image](https://github.com/Nalini23009745/Exp-7-Synchornous-counters-/assets/149347484/564deafa-0628-46ce-bbbd-0eddbd43ebc9)
 
 ### RESULTS 
